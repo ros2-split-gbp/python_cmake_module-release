@@ -1,1 +1,1 @@
-{"base": "9558a60", "parent": "debian/rolling/python_cmake_module", "previous": "ed9724e", "trim": "", "trimbase": ""}
+{"base": "4e12593", "parent": "debian/galactic/python_cmake_module", "previous": "acf14dc", "trim": "", "trimbase": ""}
