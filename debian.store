@@ -1,1 +1,1 @@
-{"base": "6b079bd", "parent": "debian/rolling/python_cmake_module", "previous": "bb8624b", "trim": "", "trimbase": ""}
+{"base": "4f2f511", "parent": "debian/humble/python_cmake_module", "previous": "262ad44", "trim": "", "trimbase": ""}
