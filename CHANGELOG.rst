@@ -2,6 +2,11 @@
 Changelog for package python_cmake_module
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.10.1 (2022-09-13)
+-------------------
+* Mirror rolling to master
+* Contributors: Audrow Nash
+
 0.10.0 (2022-03-01)
 -------------------
 * require Python 3.6 as we use format strings in various places (`#10 <https://github.com/ros2/python_cmake_module/issues/10>`_)
